@@ -36,4 +36,5 @@ I used vannila JavaScript and vannila CSS in this project. This means I didnt us
   - I will review the changes and then merge them
  
  ## Conclusion
- Thats it for this project. If you want us to collaborate in any project, you can reach out to me, am always available leviuswafula528@gmail.com. Thank you!
+ Thats it for this project. If you want us to collaborate in any project, you can reach out to me, am always available
+ leviuswafula528@gmail.com. Thank you!
