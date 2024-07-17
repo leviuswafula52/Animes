@@ -291,3 +291,12 @@ sort_by_name.addEventListener("click", () => {
   animeParent.innerHTML = output2;
   sort_buttons.style.display = "none";
 });
+
+// current year automations
+var currentYear = new Date().getFullYear();
+        
+// Set the current year to the element with id 'current-year'
+document.getElementById('current-year').textContent = currentYear;
+
+
+

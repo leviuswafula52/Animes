@@ -1,5 +1,6 @@
 # Introduction
-Hello there developer. Thank you for taking your time to pass by my project.
+Hello there developer. I'm levius or you can call me code52...haah!
+Thank you for taking your time to pass by my project.
 
 ## About this project
 This is a simple Animes website. After learning about external APIs and fetch method in JavaScript, I decided to test my understanding by building this simple Animes website. I used external API from [Rapid API](https://rapidapi.com/). Check the live demo [here](https://animeshome.netlify.app/)
